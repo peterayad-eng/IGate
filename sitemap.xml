@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="https://igate-eg.000webhostapp.com/">
+
+   <url>
+
+      <loc>https://igate-eg.000webhostapp.com/index.php</loc>
+
+      <lastmod>2020-02-10</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://igate-eg.000webhostapp.com/ITSupport.php</loc>
+
+      <lastmod>2020-02-11</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://igate-eg.000webhostapp.com/WebServices.php</loc>
+
+      <lastmod>2020-02-11</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://igate-eg.000webhostapp.com/Products.php</loc>
+
+      <lastmod>2020-02-12</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+</urlset> 

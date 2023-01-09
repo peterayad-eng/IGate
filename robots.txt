@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /AdminPanel/
+Allow: /
+
+Sitemap: https://igate-eg.000webhostapp.com/sitemap.xml
+Sitemap: https://igate-eg.000webhostapp.com/ar/sitemap.xml
